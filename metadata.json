@@ -1,0 +1,6 @@
+{
+  "name": "withus air Guitar",
+  "description": "An Air Guitar prototype using MediaPipe hand tracking and Tone.js synth audio.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
